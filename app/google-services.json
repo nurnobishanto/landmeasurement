@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "955014730494",
+    "project_id": "landmeasurement",
+    "storage_bucket": "landmeasurement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955014730494:android:308bb0c6bdbcbbc587cbaf",
+        "android_client_info": {
+          "package_name": "com.techzweb.bnmeasurement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955014730494-4f9se6dfvoa4on7sdk3u533njlkh9n8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO7MRPoBkyUHGQHgtcXxa6_sBQaVLuKVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955014730494-4f9se6dfvoa4on7sdk3u533njlkh9n8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
